@@ -1,0 +1,16 @@
+{   
+  "features": {
+	},
+
+	"customizations": {
+		"vscode": {		
+			"extensions": [
+			]
+		}
+	},
+	"forwardPorts": [
+	],
+	"postCreateCommand": "npm install --global mocha",
+	"portsAttributes": {
+	}
+}
